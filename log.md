@@ -1,30 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 7, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Implemented a javascript function to animate a given DOM element to right by the given distance smoothly. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+https://codepen.io/nluo/pen/WPXWNJ?editors=1111
 
-**Link to work:** [Calculator App](http://www.example.com)
+Thoughts:
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+* It's important to use setTimeout function to send the task out of the main thread i.e. send to EventLoop
+* There is a very good talk about the event loop: https://www.youtube.com/watch?v=8aGhZQkoFbQ
+* Use javascript to manipulate DOM element style
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 2: February 8, 2019
