@@ -75,4 +75,4 @@ Today I have added the touch support (for usage in mobile devices) in my  simple
 
 ### Day 8: Feb 14, 2019
 
-Log all my previous days into github repo: [100-days-of-code](https://github.com/nluo/100-days-of-code)
+Log all my previous days into github repo: [100-days-of-code](https://github.com/nluo/100-days-of-code) and start building my own (blog)[https://github.com/nluo/my-blog] with GatsbyJS 
